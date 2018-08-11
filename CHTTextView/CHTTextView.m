@@ -105,7 +105,7 @@
     
     self.placeHolderLabel.frame = CGRectMake(xLabel, yLabel, width, height);
     
-    
+    self.placeHolderLabel.text = _placeHolder;
 }
 
 #pragma mark - observer
