@@ -2,7 +2,7 @@
 
 自定义textview，给textView增加placeHolder
 
-![] (https://github.com/ChanRoy/CHTTextView/blob/master/CHTTextView.gif)
+![](https://github.com/ChanRoy/CHTTextView/blob/master/CHTTextView.gif)
 
 ## 简介
 
